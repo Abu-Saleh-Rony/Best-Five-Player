@@ -1,7 +1,15 @@
+body {
+    background-color: #151515;
+}
+
 .banner-section {
     height: 437px;
     width: 100%;
     background-color: black;
+}
+
+.title-positionset {
+    padding-top: 8%;
 }
 
 .title-color {
